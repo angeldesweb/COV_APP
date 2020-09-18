@@ -1,4 +1,4 @@
-# API GRAPHQL ITME
+# COV_APP
 
 ## `v0.0.1` Solo modulos y controladores de los datos mas básicos para el sistema
 
